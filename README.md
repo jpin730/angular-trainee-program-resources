@@ -44,7 +44,7 @@
 
 [Build an Accordion without JavaScript](https://medium.com/@mjtweaver/build-an-accordion-without-javascript-e97d319ca371)
 
-[<summary>: The Disclosure Summary element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+[The Disclosure Summary element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
