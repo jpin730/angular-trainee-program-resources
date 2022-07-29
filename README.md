@@ -1,5 +1,7 @@
 # Angular Trainee Program Resources
 
+> Some Medium's articles can be accessed using an incognito/private tab.
+
 ## Angular
 
 [Import fonts in an Angular App — THE EASY / RIGHT WAY!](https://aditya-tyagi.medium.com/import-fonts-in-an-angular-app-the-easy-right-way-ae9e99cab551)
@@ -30,6 +32,8 @@
 
 [Using Custom Pipes in a Component Class in Angular](https://www.digitalocean.com/community/tutorials/angular-using-pipes-in-component-class)
 
+[What Are Http Interceptors And How to Use Them In Angular?](https://medium.com/javarevisited/what-are-http-interceptors-and-how-to-use-them-in-angular-59fcb4efc235)
+
 ## Tools, Tips & Tricks
 
 [ES6 in Depth articles on Pony Foo](https://ponyfoo.com/articles/tagged/es6-in-depth)
@@ -44,7 +48,7 @@
 
 [Build an Accordion without JavaScript](https://medium.com/@mjtweaver/build-an-accordion-without-javascript-e97d319ca371)
 
-[The Disclosure Summary element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+[\<summary\>: The Disclosure Summary element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
