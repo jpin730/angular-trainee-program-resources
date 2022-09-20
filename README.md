@@ -4,6 +4,8 @@
 
 ## Angular
 
+[Configure Prettier and ESLint with Angular](https://itnext.io/configure-prettier-and-eslint-with-angular-e7b4ce979cd8)
+
 [Import fonts in an Angular App — THE EASY / RIGHT WAY!](https://aditya-tyagi.medium.com/import-fonts-in-an-angular-app-the-easy-right-way-ae9e99cab551)
 
 [Angular @Input @Output and Services for state management](https://gopi-it.medium.com/angular-input-output-and-services-for-state-management-d6fec85bcc3f)
