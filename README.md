@@ -36,6 +36,8 @@
 
 [What Are Http Interceptors And How to Use Them In Angular?](https://medium.com/javarevisited/what-are-http-interceptors-and-how-to-use-them-in-angular-59fcb4efc235)
 
+[Angular - Shortcut to Importing Styles Files in Components](https://www.digitalocean.com/community/tutorials/angular-shortcut-to-importing-styles-files-in-components)
+
 ## Tools, Tips & Tricks
 
 [ES6 in Depth articles on Pony Foo](https://ponyfoo.com/articles/tagged/es6-in-depth)
