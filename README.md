@@ -38,6 +38,8 @@
 
 [Angular - Shortcut to Importing Styles Files in Components](https://www.digitalocean.com/community/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
+[Custom Preloading and Lazy Loading Strategies with Angular](https://coryrylan.com/blog/custom-preloading-and-lazy-loading-strategies-with-angular)
+
 ## Tools, Tips & Tricks
 
 [ES6 in Depth articles on Pony Foo](https://ponyfoo.com/articles/tagged/es6-in-depth)
